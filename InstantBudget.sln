@@ -5,6 +5,8 @@ VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InstantBudget", "InstantBudget\InstantBudget.csproj", "{A44B9745-04A6-462F-8FCC-248EC2F01C82}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InstantBudget.Math", "InstantBudget.Math\InstantBudget.Math.csproj", "{FB0F6E5E-1FC4-4CDC-89E1-4406A25C1086}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{A44B9745-04A6-462F-8FCC-248EC2F01C82}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A44B9745-04A6-462F-8FCC-248EC2F01C82}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A44B9745-04A6-462F-8FCC-248EC2F01C82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB0F6E5E-1FC4-4CDC-89E1-4406A25C1086}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB0F6E5E-1FC4-4CDC-89E1-4406A25C1086}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB0F6E5E-1FC4-4CDC-89E1-4406A25C1086}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB0F6E5E-1FC4-4CDC-89E1-4406A25C1086}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
